@@ -85,7 +85,7 @@ public class Merge {
      * @param args the command-line arguments
      */
     public static void main(String[] args) {
-        int[] a = {2,5,1,5,6,7,0,9};
+        int[] a = {7, 1, 4, 9, 0, 6, 8, 3, 2, 5};
         Merge.sort(a);
         show(a);
     }
